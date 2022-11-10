@@ -1,0 +1,11 @@
+.item{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+
+}
+.search_item{
+  display: flex;
+  justify-content: center;
+  
+}
